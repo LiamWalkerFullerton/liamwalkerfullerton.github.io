@@ -8,13 +8,6 @@ My GitHub page is http://github.com/LiamWalkerFullerton.
 
 ### CPSC 120
 
-* Lab 7
-
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
-
 * Lab 9 Part 1
     
     As you will see, many of my lab pics are recent labs. I love the new
