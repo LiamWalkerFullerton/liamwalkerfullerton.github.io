@@ -4,7 +4,7 @@ This is my home page! My name is Liam and I am a student at [Cal State Fullerton
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/LiamWalkerFullerton.
+My GitHub page is https://github.com/LiamWalkerFullerton.
 
 ### CPSC 120
 
